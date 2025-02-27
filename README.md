@@ -4,7 +4,7 @@
 
 A versatile Discord bot that provides text and image generation capabilities using various AI models.
 
-**I did not follow best practice and use a .env file the API secrets. I didn't want to do that purely so it can be a single file.
+- **I did not follow best practice and use a .env file the API secrets. I didn't want to do that purely so it can be a single file.
 
 ![Discord Bot](https://img.shields.io/badge/discord-bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
