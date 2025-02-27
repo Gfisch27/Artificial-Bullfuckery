@@ -48,7 +48,7 @@ A versatile Discord bot that provides text and image generation capabilities usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ArtBull.git
+   git clone https://github.com/Gfisch27/ArtBull.git
    cd ArtBull
    ```
 
