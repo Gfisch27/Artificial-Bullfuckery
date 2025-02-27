@@ -1,4 +1,6 @@
-# ArtBull Discord Bot
+## ArtBull Discord Bot
+
+# This bot was written 99.9% by AI. I take 0 credit for being able to write this myself. I have 0 programming skill. (I just enjoyed the process and thought the result was worth sharing.)
 
 A versatile Discord bot that provides text and image generation capabilities using various AI models.
 
