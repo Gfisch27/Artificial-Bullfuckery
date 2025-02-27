@@ -1,9 +1,10 @@
 # ArtBull Discord Bot
 
 ## This single-file bot was written 99.9% by AI. I take 0 credit for being able to write this myself. I have 0 programming skill. (I just enjoyed the process and thought the result was worth sharing.)
-### I know that best practice is to use a .env file. I didn't want to do that purely so it can be a single file.
 
 A versatile Discord bot that provides text and image generation capabilities using various AI models.
+
+**I did not follow best practice and use a .env file the API secrets. I didn't want to do that purely so it can be a single file.
 
 ![Discord Bot](https://img.shields.io/badge/discord-bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
